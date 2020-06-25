@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "531561447547",
+    "firebase_url": "https://fir-practice-bfafa.firebaseio.com",
+    "project_id": "fir-practice-bfafa",
+    "storage_bucket": "fir-practice-bfafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531561447547:android:2642b4f721f7547affa2de",
+        "android_client_info": {
+          "package_name": "com.chenyjzn.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531561447547-tj58lo3sa4e4qss427jrnepe2elqlc52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcLOKr0PHFsO_KUYq9MpU3kxr22-vHfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531561447547-tj58lo3sa4e4qss427jrnepe2elqlc52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531561447547:android:f68a8dcb9965b0e8ffa2de",
+        "android_client_info": {
+          "package_name": "com.yuchen.publisher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531561447547-tj58lo3sa4e4qss427jrnepe2elqlc52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcLOKr0PHFsO_KUYq9MpU3kxr22-vHfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531561447547-tj58lo3sa4e4qss427jrnepe2elqlc52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
